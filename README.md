@@ -27,10 +27,13 @@ This project consists of two main components:
 
 ## Setting Up the Python Environment
 1. Install the required Python packages:
+    ```bash
     python3 -m pip install -r requirements.txt
+    ```
 
 ## Running the Bokeh GUI
 
 1. Launch the Bokeh application:
-
+    ```bash
     python3 gui.py
+    ```
