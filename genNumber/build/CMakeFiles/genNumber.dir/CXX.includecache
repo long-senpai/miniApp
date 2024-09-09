@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/long/dev/miniProject/genNumber/main.cpp
+boost/beast/core.hpp
+-
+boost/beast/websocket.hpp
+-
+boost/asio/ip/tcp.hpp
+-
+cstdlib
+-
+functional
+-
+iostream
+-
+string
+-
+thread
+-
+

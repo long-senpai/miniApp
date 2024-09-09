@@ -1,0 +1,1 @@
+/usr/bin/c++   -pthread -fopenmp   CMakeFiles/genNumber.dir/main.cpp.o  -o genNumber 
